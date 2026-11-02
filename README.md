@@ -55,3 +55,7 @@ Never in an issue, pull request or discussion here. Report it privately through 
 - [Security policy](https://github.com/chronitonlabs/chronitondb/blob/chronitondb-5.0/docs/process/security.md)
 - [Compliance: SBOM and VEX](https://github.com/chronitonlabs/chronitondb/blob/chronitondb-5.0/docs/process/compliance.md)
 - [Release outputs](https://github.com/chronitonlabs/chronitondb/blob/chronitondb-5.0/docs/process/release.md)
+
+## Licence
+
+The statements in this repository are licensed under the [Apache License 2.0](LICENSE), the same licence as ChronitonDB.
