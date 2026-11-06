@@ -18,7 +18,7 @@ One OpenVEX document per supported line:
 Each statement names:
 
 - the vulnerability, by its CVE id
-- the product, as a package URL: the line, `pkg:github/chronitonlabs/chronitondb@chronitondb-5.0`, or one release, such as `pkg:github/chronitonlabs/chronitondb@5.0.10-chronitondb1`
+- the product, as a package URL: the line, `pkg:github/chronitonlabs/chronitondb@chronitondb-5.0`, or one release, such as `pkg:github/chronitonlabs/chronitondb@5.0-chronitondb3`
 - the library, as a package URL, when the vulnerability is in a library ChronitonDB ships
 - one status
 
